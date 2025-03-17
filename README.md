@@ -9,7 +9,7 @@
 
 **TikCoin is being built for the Sonic Mobius Hackathon's Attention Capital Markets track!**
 
-We're excited to be participating in this hackathon that focuses on building the future of creator economy and attention markets on the Sonic blockchain. Our project is built to revolutionize how creators monetize their content and engage with their communities through tokenization.
+We're excited to be participating in this hackathon that focuses on building the future of creator economy and attention markets on Sonic. Our project is built to revolutionize how creators monetize their content and engage with their communities through tokenization.
 
 ## 🚀 About TikCoin
 
