@@ -11,15 +11,15 @@
 
 **TikCoin is being built for the Sonic Mobius Hackathon's Attention Capital Markets track!**
 
-We're excited to be participating in this innovative hackathon that focuses on building the future of creator economy and attention markets on the Sonic blockchain. Our project aims to revolutionize how creators monetize their content and engage with their communities through tokenization.
+We're excited to be participating in this hackathon that focuses on building the future of creator economy and attention markets on the Sonic blockchain. Our project is built to revolutionize how creators monetize their content and engage with their communities through tokenization.
 
 ## 🚀 About TikCoin
 
-TikCoin is a revolutionary platform built on the Solana blockchain where content creators can launch their own tokens and reward their communities. Similar to PumpFun, TikCoin enables direct monetization between creators and their fans through personalized creator coins.
+TikCoin is a new platform where content creators can launch their own tokens and reward their communities. Similar to PumpFun, TikCoin enables direct monetization between creators and their fans through personalized creator coins.
 
 Each creator token operates on a bonding curve, allowing early supporters to benefit as the creator's popularity grows. This creates a symbiotic relationship where fans are incentivized to discover and support emerging talent early, while creators can reward their most loyal community members.
 
-## ✨ Key Features
+## ✨ Our Features
 
 - **Creator Token Launch**: Creators can mint their own personalized tokens with custom branding
 - **Bonding Curve Economics**: Token prices increase as supply grows, rewarding early supporters
@@ -34,11 +34,10 @@ Each creator token operates on a bonding curve, allowing early supporters to ben
 
 TikCoin leverages the power of the Solana blockchain for its speed, low costs, and scalability:
 
-- **Backend**: Solana Programs (Smart Contracts) written with Anchor Framework
+- **Backend**: SonicVM, Solana Programs (Smart Contracts) written with Anchor Framework
 - **Frontend**: React.js with TypeScript
 - **State Management**: Redux with middleware for blockchain interactions
 - **Styling**: Tailwind CSS with custom components
-- **Wallet Integration**: Solana wallet adapters (Phantom, Solflare, etc.)
 - **Indexing**: Custom indexing solution for efficient data querying
 
 ## 📊 How it Works
