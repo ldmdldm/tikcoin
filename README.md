@@ -32,7 +32,7 @@ Each creator token operates on a bonding curve, allowing early supporters to ben
 
 TikCoin leverages the power of the Solana blockchain for its speed, low costs, and scalability:
 
-- **Backend**: SonicVM, Solana Programs (Smart Contracts) written with Anchor Framework
+- **Backend**: Sonic SVM, Solana Programs (Smart Contracts) written with Anchor Framework
 - **Frontend**: React.js with TypeScript
 - **State Management**: Redux with middleware for blockchain interactions
 - **Styling**: Tailwind CSS with custom components
