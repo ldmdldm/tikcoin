@@ -23,10 +23,10 @@ Each creator token operates on a bonding curve, allowing early supporters to ben
 - **Bonding Curve Economics**: Token prices increase as supply grows, rewarding early supporters
 - **Community Rewards**: Creators can distribute rewards, exclusive content, and experiences to token holders
 - **Tokenized Engagement**: Social actions like likes, shares, and comments can earn token rewards
-- **Solana Speed & Economy**: Ultra-fast transactions with minimal fees (< $0.001 per transaction)
+- **Solana + SonicVM Speed & Economy**: Ultra-fast transactions with minimal fees (< $0.001 per transaction)
 - **Cross-Platform Integration**: Connect with popular social media platforms to tokenize existing audiences
-- **Token Marketplace**: Buy, sell, and trade creator tokens in a seamless marketplace
-- **Creator Analytics**: Detailed insights into community growth and token performance
+- **Token Marketplace**: Buy, sell, and trade creator tokens in a marketplace
+- **Creator Analytics**: Detailed data into community growth and token performance
 
 ## 🔧 Technology Stack
 
