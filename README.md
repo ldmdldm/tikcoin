@@ -132,7 +132,7 @@ TikCoin is released under the MIT License. See the [LICENSE](LICENSE) file for d
 
 ## 🔗 Links
 
-- [Sonic](https://sonic.game/)
+- [Sonic SVM](https://sonic.game/)
 - [Anchor Framework](https://project-serum.github.io/anchor/)
 - [Backpack Wallet](https://backpack.exchange/)
 
