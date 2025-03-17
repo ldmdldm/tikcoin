@@ -1,0 +1,12 @@
+# Force the use of stable toolchain for this project
+# This avoids issues with nightly-specific features like next-lockfile-bump
+[toolchain]
+channel = "stable"
+components = ["rustfmt", "clippy"]
+
+# Optimization settings
+[build]
+rustflags = ["-C", "target-cpu=native"]
+# Use all available CPU cores
+jobs = 0
+

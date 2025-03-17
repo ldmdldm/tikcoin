@@ -1,0 +1,21 @@
+[toolchain]
+package_manager = "yarn"
+
+[features]
+resolution = true
+skip-lint = false
+
+[programs.localnet]
+tikcoin = "JBjTLSi2d1t45LoLYe3DusLVh6bv1JMtk1qxtoN6vnJq"
+
+[programs.testnet]
+tikcoin = "JBjTLSi2d1t45LoLYe3DusLVh6bv1JMtk1qxtoN6vnJq"
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "testnet"
+wallet = "/Users/ldm/.config/solana/id.json"
+
+[scripts]
+test = "yarn run mocha -t 1000000 tests/"
