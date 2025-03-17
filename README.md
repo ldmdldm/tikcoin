@@ -1,4 +1,4 @@
-# TikCoin - Creator Economy on Sonic
+# TikCoin - Creator Economy on Sonic SVM
 
 [![Solana](https://img.shields.io/badge/Solana-black?logo=solana)](https://solana.com/)
 [![Anchor](https://img.shields.io/badge/Anchor-Framework-blue)](https://www.anchor-lang.com/)
