@@ -1,6 +1,4 @@
-# TikCoin - Creator Economy on Solana
-
-![TikCoin Banner](https://placekitten.com/800/200)
+# TikCoin - Creator Economy on Sonic
 
 [![Solana](https://img.shields.io/badge/Solana-black?logo=solana)](https://solana.com/)
 [![Anchor](https://img.shields.io/badge/Anchor-Framework-blue)](https://www.anchor-lang.com/)
@@ -134,11 +132,8 @@ TikCoin is released under the MIT License. See the [LICENSE](LICENSE) file for d
 
 ## 🔗 Links
 
-- [Solana](https://solana.com/)
+- [Sonic](https://sonic.game/)
 - [Anchor Framework](https://project-serum.github.io/anchor/)
-- [Phantom Wallet](https://phantom.app/)
+- [Backpack Wallet](https://backpack.exchange/)
 
----
-
-Built with ❤️ on Solana
 
